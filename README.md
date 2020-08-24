@@ -5,3 +5,9 @@
 
 Software engineer working mostly with Ruby, particularly curious about Golang and Python. 
 I love to learn and create!
+
+
+You can find my thoughts on software engineering here: https://martinasimicic.com/
+
+Thanks for dropping by! 
+:)
